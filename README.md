@@ -1,3 +1,7 @@
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-success?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange?style=for-the-badge)
 # 📊 SQL-Based Sales Analytics
 
 A **MySQL-based Sales Analytics** project that transforms raw customer, product, and sales data into meaningful business insights through dimensional modeling and advanced SQL analytics.
